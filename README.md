@@ -7,4 +7,4 @@ I just completed a Full-Stack Bootcamp at Epicodus where I learned HTML, CSS, Bo
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&text=true&animation=spin&fill=000000)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=csharp&text=true&animation=spin&fill=307958)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=redux&text=true&animation=spin&fill=1b8b6c)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=redux&text=true&animation=spin&fill=3a09f1)

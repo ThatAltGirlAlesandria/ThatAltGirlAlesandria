@@ -30,7 +30,6 @@
 
 ## My Contact Information:
 
-[LinkedIn](https://www.linkedin.com/in/alesandria-wild/)
-[Email](thataltgirlalesandria@gmail.com)
-[GitHub](https://github.com/ThatAltGirlAlesandria)
-
+[LinkedIn](https://www.linkedin.com/in/alesandria-wild/) </br>
+[GitHub](https://github.com/ThatAltGirlAlesandria)</br>
+Email: thataltgirlalesandria@gmail.com
